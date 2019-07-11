@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uuunit.github.io/</id>
     <title>caMac</title>
-    <updated>2019-07-11T05:09:11.440Z</updated>
+    <updated>2019-07-11T05:12:27.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uuunit.github.io/"/>
     <link rel="self" href="https://uuunit.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://uuunit.github.io//images/avatar.png</logo>
     <icon>https://uuunit.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, caMac</rights>
+    <entry>
+        <title type="html"><![CDATA[照片]]></title>
+        <id>https://uuunit.github.io//post/zhao-pian</id>
+        <link href="https://uuunit.github.io//post/zhao-pian">
+        </link>
+        <updated>2019-07-11T05:10:29.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://uuunit.github.io//post-images/1562821933740.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://uuunit.github.io//post/about</id>
