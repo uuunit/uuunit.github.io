@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uuunit.github.io/</id>
     <title>caMac</title>
-    <updated>2019-07-13T05:21:25.766Z</updated>
+    <updated>2019-07-13T05:24:34.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uuunit.github.io/"/>
     <link rel="self" href="https://uuunit.github.io//atom.xml"/>
@@ -48,7 +48,17 @@
         <link href="https://uuunit.github.io//post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>这是关于的页面，可以在这里向世界介绍你！</p>
+        <summary type="html"><![CDATA[<p>昨天的梦里</p>
+<p>小熊坐在狮子身上哭泣</p>
+<p>他们告诉我</p>
+<p>那只蓝色的海豚也在梦里想念你</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>昨天的梦里</p>
+<p>小熊坐在狮子身上哭泣</p>
+<p>他们告诉我</p>
+<p>那只蓝色的海豚也在梦里想念你</p>
+<!-- more -->
+<p>永远的ing</p>
 ]]></content>
     </entry>
 </feed>
