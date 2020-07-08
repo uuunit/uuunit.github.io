@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uuunit.github.io/</id>
     <title>caMac</title>
-    <updated>2019-07-23T01:22:42.377Z</updated>
+    <updated>2020-07-08T15:26:50.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uuunit.github.io/"/>
-    <link rel="self" href="https://uuunit.github.io//atom.xml"/>
+    <link rel="self" href="https://uuunit.github.io/atom.xml"/>
     <subtitle>newday</subtitle>
-    <logo>https://uuunit.github.io//images/avatar.png</logo>
-    <icon>https://uuunit.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, caMac</rights>
+    <logo>https://uuunit.github.io/images/avatar.png</logo>
+    <icon>https://uuunit.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, caMac</rights>
     <entry>
         <title type="html"><![CDATA[纽约时报字体]]></title>
-        <id>https://uuunit.github.io//post/nyt-fonts</id>
-        <link href="https://uuunit.github.io//post/nyt-fonts">
+        <id>https://uuunit.github.io/post/nyt-fonts/</id>
+        <link href="https://uuunit.github.io/post/nyt-fonts/">
         </link>
         <updated>2019-07-23T00:53:38.000Z</updated>
         <summary type="html"><![CDATA[<p>这里可以找到纽约时报网站内的字体：<br>
@@ -27,13 +27,13 @@
 <a href="https://thetype.com/2010/08/2919/">iPad 时代的报纸与杂志设计</a></p>
 <!-- more -->
 <hr>
-<p><img src="https://s3.amazonaws.com/typesamples/nyt_pbhz6.png" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://s3.amazonaws.com/typesamples/nyt_pbhz6.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[夏天]]></title>
-        <id>https://uuunit.github.io//post/xia-tian</id>
-        <link href="https://uuunit.github.io//post/xia-tian">
+        <id>https://uuunit.github.io/post/xia-tian/</id>
+        <link href="https://uuunit.github.io/post/xia-tian/">
         </link>
         <updated>2019-07-13T05:50:40.000Z</updated>
         <content type="html"><![CDATA[<p>夏天</p>
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[iPad OS 13 Public Beta 2 Bugs]]></title>
-        <id>https://uuunit.github.io//post/ipad-os-public-beta-2-bugs</id>
-        <link href="https://uuunit.github.io//post/ipad-os-public-beta-2-bugs">
+        <id>https://uuunit.github.io/post/ipad-os-public-beta-2-bugs/</id>
+        <link href="https://uuunit.github.io/post/ipad-os-public-beta-2-bugs/">
         </link>
         <updated>2019-07-11T09:24:48.000Z</updated>
         <summary type="html"><![CDATA[<ul>
@@ -60,21 +60,21 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[照片]]></title>
-        <id>https://uuunit.github.io//post/zhao-pian</id>
-        <link href="https://uuunit.github.io//post/zhao-pian">
+        <id>https://uuunit.github.io/post/zhao-pian/</id>
+        <link href="https://uuunit.github.io/post/zhao-pian/">
         </link>
         <updated>2019-07-11T05:10:29.000Z</updated>
         <summary type="html"><![CDATA[<p>此时此刻每个来来往往的人的悲欢离合汇集成一场雨，一阵风，一树花，一片夕阳余晖，让这城市永远生机盎然。暴雨过后，晚霞如画，空气清爽，吃到了好吃到迷醉的美味，非常完美。这是寻常的一天，这一天好像又不那么寻常。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>此时此刻每个来来往往的人的悲欢离合汇集成一场雨，一阵风，一树花，一片夕阳余晖，让这城市永远生机盎然。暴雨过后，晚霞如画，空气清爽，吃到了好吃到迷醉的美味，非常完美。这是寻常的一天，这一天好像又不那么寻常。</p>
 <!-- more -->
-<p><img src="https://uuunit.github.io//post-images/1562822053528.jpeg" alt="外环路桥"></p>
+<figure data-type="image" tabindex="1"><img src="https://uuunit.github.io//post-images/1562822053528.jpeg" alt="外环路桥" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://uuunit.github.io//post/about</id>
-        <link href="https://uuunit.github.io//post/about">
+        <id>https://uuunit.github.io/post/about/</id>
+        <link href="https://uuunit.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <summary type="html"><![CDATA[<p>昨天的梦里</p>
